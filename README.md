@@ -1,5 +1,5 @@
 ## Stacked-Attention-Networks-for-Visual-Question-Answring-
-Implementation of the paper "Stacked Attention Networks for Image Question Answering" in Tensorflow
+Implementation of the paper "Stacked Attention Networks for Image Question Answering" [[link]](https://arxiv.org/abs/1511.02274) in Tensorflow
 
 ### Data 
 Download the standard VQA COCO dataset from [here](https://visualqa.org/download.html)
