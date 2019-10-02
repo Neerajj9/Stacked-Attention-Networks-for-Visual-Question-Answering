@@ -30,3 +30,4 @@ Run : ```python Main.py``` to train the model. The model will be saved in .ckpt 
 
 ### Results
 
+### Requirements
