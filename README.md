@@ -28,5 +28,5 @@ The `VQA_blocks.py` consists of all the code for the model(feature extractor usi
 #### Training the model 
 Run : ```python Main.py``` to train the model. The model will be saved in .ckpt format in the folder 'trained_model'.
 
-###Results : 
+### Results
 
