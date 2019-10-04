@@ -41,3 +41,9 @@ Run : ```python Main.py``` to train the model. The model will be saved in .ckpt 
 
 
 ### Requirements
+
+1. Keras : 2.2.2 
+2. Tensorflow : 1.9.0 
+3. OpenCV : 3.4.1 
+4. Numpy : 1.14.3 
+5. Matplotlib : 2.2.2 
