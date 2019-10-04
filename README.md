@@ -30,13 +30,13 @@ Run : ```python Main.py``` to train the model. The model will be saved in .ckpt 
 
 ### Results
 
-<img src="https://github.com/Neerajj9/Stacked-Attention-Networks-for-Visual-Question-Answring/blob/master/Results/1.png" width="480">
+<img src="https://github.com/Neerajj9/Stacked-Attention-Networks-for-Visual-Question-Answring/blob/master/Results/1.png" width="350">
 
-<img src="https://github.com/Neerajj9/Stacked-Attention-Networks-for-Visual-Question-Answring/blob/master/Results/2.png" width="480">
+<img src="https://github.com/Neerajj9/Stacked-Attention-Networks-for-Visual-Question-Answring/blob/master/Results/2.png" width="350">
 
-<img src="https://github.com/Neerajj9/Stacked-Attention-Networks-for-Visual-Question-Answring/blob/master/Results/3.png" width="480">
+<img src="https://github.com/Neerajj9/Stacked-Attention-Networks-for-Visual-Question-Answring/blob/master/Results/3.png" width="350">
 
-<img src="https://github.com/Neerajj9/Stacked-Attention-Networks-for-Visual-Question-Answring/blob/master/Results/4.png" width="480">
+<img src="https://github.com/Neerajj9/Stacked-Attention-Networks-for-Visual-Question-Answring/blob/master/Results/4.png" width="350">
 
 
 
