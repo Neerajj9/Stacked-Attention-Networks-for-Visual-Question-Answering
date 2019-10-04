@@ -26,5 +26,8 @@ As it is impossible to load so many images at a time in the memory, `Data_loader
 The `VQA_blocks.py` consists of all the code for the model(feature extractor using VGG CNN, Question feature extractor LSTM) and the attention module.
 
 #### Training the model 
-Run : ```python Main.py``` to train the model. You can also run the Jupyter notebook `Main.ipynb`
- 
+Run : ```python Main.py``` to train the model. The model will be saved in .ckpt format in the folder 'trained_model'.
+
+### Results
+
+### Requirements
